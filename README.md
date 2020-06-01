@@ -1,2 +1,2 @@
 # graduateschool
-graduate school projects 
+Martha's Graduate School Projects 
